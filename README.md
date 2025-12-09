@@ -10,4 +10,5 @@ Abstraction: Display elements of the list as bars with height scaled by height. 
 
 Algorithm Design: Take an input and verify that it is an array of integers. If the input is not valid tell the user the issue and ask for a new input. Go through the list finding the highest and lowest values, unless the list is of length one. Then go through the list giving each value a bar size by multiplying the size of the max bar by (value - min)/(max - min). If the size is zero set it to the minimum bar size. Then display all the bars with their values with an option to click sort, which plays the animation of the bars being sorted until it is sorted. 
 
-![Uploading image.png…]()
+
+<img width="631" height="678" alt="Screenshot 2025-12-09 144928" src="https://github.com/user-attachments/assets/afcad328-8f4f-4ec2-ab35-b5fe8c0e0502" />
