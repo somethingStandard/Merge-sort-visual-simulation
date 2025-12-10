@@ -1,4 +1,12 @@
 # Merge-sort-visual-simulation
+<img width="1918" height="913" alt="image" src="https://github.com/user-attachments/assets/134ebcf2-b4dc-4c18-acb5-d74ac56aa445" />
+<img width="1919" height="705" alt="image" src="https://github.com/user-attachments/assets/26cfcb06-b0f2-4832-aa2f-921b285a9ad1" />
+<img width="1919" height="918" alt="image" src="https://github.com/user-attachments/assets/ec388499-55fe-42b8-a5c5-27bd878746d4" />
+<img width="1917" height="867" alt="image" src="https://github.com/user-attachments/assets/989b79ea-90d1-4913-9af7-ef4a80c84e99" />
+<img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/f685aa4c-8786-4aae-9dd3-85e94a2cf995" />
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/303c3625-f4f5-406a-add9-1fc7ae0e21d9" />
+
+
 
 I chose merge sort because I have a good understanding of the algorithm and I think it would look the most interesting to visualize
 
