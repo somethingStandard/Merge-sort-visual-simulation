@@ -12,3 +12,14 @@ Algorithm Design: Take an input and verify that it is an array of integers. If t
 
 
 <img width="631" height="678" alt="Screenshot 2025-12-09 144928" src="https://github.com/user-attachments/assets/afcad328-8f4f-4ec2-ab35-b5fe8c0e0502" />
+
+Steps to run:
+Input a list of integers with a space between them/ eg 5 77 2 -5
+Move the slider to control the speed of the simulation the closer to the left the faster.
+Click the start button
+
+https://huggingface.co/spaces/BlueMD/Merge_Sort
+
+Made by Gavin Watson
+AI Acknowledgment:
+Used ChatGPT 5.1 for code improvements and integration with Gradio.
